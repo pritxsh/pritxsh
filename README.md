@@ -24,6 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritxsh&" alt="pritxsh" /></p>
 
-<h1 align="left"><u>Github stats</u></h1>
 
 
