@@ -23,3 +23,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritxsh&show_icons=true&locale=en&layout=compact" alt="pritxsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritxsh&" alt="pritxsh" /></p>
+
+<h1 align="left"><u>Github stats</u></h1>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+</p>
+
