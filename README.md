@@ -1,24 +1,78 @@
-<h1 align="center">Hi 👋, I'm Pritesh</h1>
-<h3 align="center">A passionate developer based in India.</h3>
+<h1 align="center">Hi, I'm Pritesh 👋</h1>
+<h3 align="center">Backend & Cloud Engineer | Java • Spring • Azure • DevOps</h3>
 
-### Currently I am working with technologies like
-
-<a href="" target="_blank" title="Java" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="JavaScript" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="JavaScript" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="Dynatrace" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="Dynatrace" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vrdekr" target="_blank" title="X.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X.com" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pritesh-vardekar-aa0367167/" target="_blank" title="Linkedin" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pritxsh.v/" target="_blank" title="Instagran" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="mailto:priteshvardekar.264@gmail.com" target="_blank" title="Gmail" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
+<p align="center">
+I build secure, scalable backend systems and cloud-native applications.<br/>
+Currently working as a Software Engineering Analyst at Accenture.
 </p>
 
+---
 
+### 🧑‍💻 About Me
 
+- 💼 Software Engineering Analyst @ Accenture  
+- ☁️ Working on Cloud, Backend Systems, and CI/CD Automation  
+- ⚙️ Strong in Java, Spring Boot, REST APIs, Azure, Docker, and GitHub Actions  
+- 📦 Experience with PostgreSQL, Azure Functions, Terraform, and Observability (Dynatrace, Splunk)  
+- 🌱 Currently deepening knowledge in System Design and Java internals  
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages & Frameworks
+<p>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="32"/>
+</p>
+
+#### Cloud, DevOps & Tools
+<p>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="32"/>
+</p>
+
+#### Databases & Observability
+<p>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="52"/>
+<img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" width="32"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pritxsh&show_icons=true&theme=default" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pritesh-vardekar-aa0367167/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="32"/>
+</a>
+<a href="https://twitter.com/vrdekr" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" width="32"/>
+</a>
+<a href="https://www.instagram.com/pritxsh.v/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32"/>
+</a>
+<a href="mailto:priteshvardekar.264@gmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="32"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>“Build systems that scale, code that lasts, and learn continuously.”</i>
+</p>
