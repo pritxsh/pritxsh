@@ -20,9 +20,5 @@
 <a href="mailto:priteshvardekar.264@gmail.com" target="_blank" title="Gmail" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritxsh&show_icons=true&locale=en&layout=compact" alt="pritxsh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritxsh&" alt="pritxsh" /></p>
-
 
 
