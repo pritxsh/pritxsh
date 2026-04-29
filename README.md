@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Pritesh 👋</h1>
-<h3 align="center">Backend & Cloud Engineer | Java • Spring • Azure • DevOps</h3>
+<h3 align="center">Backend & Cloud Engineer | Java • Spring • Cloud • DevOps</h3>
 
 <p align="center">
 I build secure, scalable backend systems and cloud-native applications.<br/>
-Currently working as a Software Engineering Analyst at Accenture.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Cloud+and+DevOps;Working+@+Accenture" />
 </p>
 
 ### 🧑‍💻 About Me
@@ -14,33 +17,39 @@ Currently working as a Software Engineering Analyst at Accenture.
 - 📦 Experience with PostgreSQL, Azure Functions, Terraform, and Observability (Dynatrace, Splunk)  
 - 🌱 Currently deepening knowledge in System Design and Java internals  
 
-### 🛠️ Tech Stack
+### ⚡ Tech Stack
 
 #### Languages & Frameworks
 <p>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="32"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind" />
 </p>
 
-#### Cloud, DevOps & Tools
+#### Cloud & DevOps
 <p>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="32"/>
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,jenkins" />
 </p>
 
-#### Databases & Observability
+#### Databases & Tools
 <p>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="32"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="52"/> &nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" width="32"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,github,eclipse" />
 </p>
 
-### 🔗 Connect With Me
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritxsh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritxsh&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritxsh&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+
+
+## 🔗 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pritesh-vardekar-aa0367167/" target="_blank">
