@@ -6,7 +6,7 @@ I build secure, scalable backend systems and cloud-native applications.<br/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Cloud+and+DevOps;Build,+Scale,+Maintain" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Cloud+and+DevOps;Build,+Scale+and+Maintain" />
 </p>
 
 ### 🧑‍💻 About Me
