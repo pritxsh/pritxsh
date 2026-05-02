@@ -19,15 +19,18 @@ I build secure, scalable backend systems and cloud-native applications.<br/>
 
 ### ⚡ Tech Stack
 
+
 #### Languages & Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind" />
 </p>
 
+
 #### Cloud & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,jenkins" />
 </p>
+
 
 #### Databases & Tools
 <p>
@@ -36,6 +39,7 @@ I build secure, scalable backend systems and cloud-native applications.<br/>
 
 
 ### 📊 GitHub Analytics
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritxsh&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -51,18 +55,18 @@ I build secure, scalable backend systems and cloud-native applications.<br/>
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/pritesh-vardekar-aa0367167/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="32"/>
+ <img src="https://skillicons.dev/icons?i=linkedin" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/vrdekr" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" width="32"/>
+ <img src="https://skillicons.dev/icons?i=twitter" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/pritxsh.v/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32"/>
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a> &nbsp;&nbsp;
 <a href="mailto:priteshvardekar.264@gmail.com">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="32"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
